@@ -1,0 +1,13 @@
+{
+  "name": "lovable-railway-deployment-examples",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "check:iac": "tsc --noEmit"
+  },
+  "devDependencies": {
+    "railway": "3.16.0",
+    "typescript": "^5.9.3",
+    "@types/node": "^22"
+  }
+}
